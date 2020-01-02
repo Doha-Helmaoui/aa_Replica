@@ -1,7 +1,7 @@
 # aa_Replica
 ![GitHub license](https://img.shields.io/github/license/hero3131/aa_Replica.svg)
 
-YoCha Donut  (*-*)
+YoCha Donut  ( -*)
 aa replica (sweets version)
 
 # Tutorial:
