@@ -1,5 +1,7 @@
 # aa_Replica
-![GitHub license](https://img.shields.io/github/license/hero3131/aa_Replica.svg)
+<a href="https://github.com/Doha-Helmaoui/aa_Replica/blob/master/LICENSE.md" alt="LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-green/hero3131/aa_Replica.svg" />
+</a>
 
 YoCha Donut  ( -*)
 aa replica (sweets version)
@@ -30,3 +32,6 @@ B = DUNOT + HAPPY*2;
 
 ## Contribution:
 Feel free to fork this project and add whatever you like.
+
+## License & copyright
+Licensed under the [MIT License](LICENSE.md).
