@@ -2,7 +2,9 @@
 <a href="https://github.com/Doha-Helmaoui/aa_Replica/blob/master/LICENSE.md" alt="LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-green/hero3131/aa_Replica.svg" />
 </a>
+
 ![Team Open Minds](https://img.shields.io/badge/Members%20of-Team%20Open%20Minds-blue.svg?color=0099CC)
+
 
 Yoshaaa Donut (☆▽☆)
 aa replica (sweets version)
